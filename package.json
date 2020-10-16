@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	
+	"author": "Yanay",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -15,5 +16,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Yanay",
+	
+
 }
